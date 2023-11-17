@@ -25,7 +25,7 @@ export type Info = {
     prev: string | null
 }
 
-export type Location = {
+export type Location = { 
     "name": string,
     "url": string
 }

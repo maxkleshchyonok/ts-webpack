@@ -1,5 +1,5 @@
 import { Character, Characters } from 'utils/types';
-import './style.css'
+import './style.css';
 import axios from 'axios';
 
 const notSorted: number[] = [];
